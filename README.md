@@ -244,3 +244,12 @@ VITE_API_URL=http://localhost:8080/api
 
 Это hackathon проект - используйте и модифицируйте по необходимости.
 =======
+
+
+
+Команда: potompridymaem
+Беляев Влад - Frontend + UI/UX
+Фалин Влад - Backend
+Карим - Backend
+Айдар - Database architect
+Данил - Presenter
